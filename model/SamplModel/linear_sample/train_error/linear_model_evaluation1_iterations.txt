@@ -1,0 +1,70 @@
+Model0: regParam = 0.001, iterations = 100, regType = l2
+Explained Variance:0.0473899894692
+Mean Absolute Error:1.49054775509
+Mean Squared Error:2.72295816687
+Root Mean Squared Error:1.6501388326
+R^2 :-0.0131763894871
+Time taken to execute this model is: 20.3 seconds.
+Model1: regParam = 0.01, iterations = 100, regType = l2
+Explained Variance:0.0477461910326
+Mean Absolute Error:1.49104638745
+Mean Squared Error:2.72431735769
+Root Mean Squared Error:1.65055062258
+R^2 :-0.0136821262511
+Time taken to execute this model is: 17.41 seconds.
+Model2: regParam = 0.001, iterations = 1000, regType = l2
+Explained Variance:0.0473356215645
+Mean Absolute Error:1.4903102561
+Mean Squared Error:2.72218025709
+Root Mean Squared Error:1.64990310537
+R^2 :-0.0128869396443
+Time taken to execute this model is: 22.05 seconds.
+Model3: regParam = 0.01, iterations = 1000, regType = l2
+Explained Variance:0.0476907500568
+Mean Absolute Error:1.49097994653
+Mean Squared Error:2.72409047847
+Root Mean Squared Error:1.6504818928
+R^2 :-0.0135977075217
+Time taken to execute this model is: 15.9 seconds.
+Model4: regParam = 0.001, iterations = 10000, regType = l2
+Explained Variance:0.0473356216497
+Mean Absolute Error:1.49031025611
+Mean Squared Error:2.72218025717
+Root Mean Squared Error:1.64990310539
+R^2 :-0.0128869396711
+Time taken to execute this model is: 17.68 seconds.
+Model5: regParam = 0.01, iterations = 10000, regType = l2
+Explained Variance:0.0476907499708
+Mean Absolute Error:1.49097994656
+Mean Squared Error:2.72409047853
+Root Mean Squared Error:1.65048189282
+R^2 :-0.0135977075419
+Time taken to execute this model is: 14.56 seconds.
+Model6: regParam = 0.001, iterations = 100000, regType = l2
+Explained Variance:0.0473356215021
+Mean Absolute Error:1.49031025613
+Mean Squared Error:2.72218025719
+Root Mean Squared Error:1.6499031054
+R^2 :-0.0128869396807
+Time taken to execute this model is: 15.57 seconds.
+Model7: regParam = 0.01, iterations = 100000, regType = l2
+Explained Variance:0.0476907499757
+Mean Absolute Error:1.49097994654
+Mean Squared Error:2.72409047848
+Root Mean Squared Error:1.65048189281
+R^2 :-0.0135977075249
+Time taken to execute this model is: 13.14 seconds.
+Model8: regParam = 0.001, iterations = 1000000, regType = l2
+Explained Variance:0.0473356216047
+Mean Absolute Error:1.49031025611
+Mean Squared Error:2.72218025715
+Root Mean Squared Error:1.64990310538
+R^2 :-0.0128869396642
+Time taken to execute this model is: 19.94 seconds.
+Model9: regParam = 0.01, iterations = 1000000, regType = l2
+Explained Variance:0.047690750013
+Mean Absolute Error:1.49097994655
+Mean Squared Error:2.72409047851
+Root Mean Squared Error:1.65048189282
+R^2 :-0.0135977075365
+Time taken to execute this model is: 24.16 seconds.

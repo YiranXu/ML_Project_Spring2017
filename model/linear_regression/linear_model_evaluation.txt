@@ -1,0 +1,96 @@
+Model0: regParam = 0.01, iterations = 100, regType = l1, convergenceTol = 0.001
+Explained Variance:0.057595845102
+Mean Absolute Error:1.48967036624
+Mean Squared Error:2.72676265939
+Root Mean Squared Error:1.65129120975
+R^2 :-0.0193293778268
+Model1: regParam = 0.01, iterations = 100, regType = l2, convergenceTol = 0.001
+Explained Variance:0.0488995056988
+Mean Absolute Error:1.48501976169
+Mean Squared Error:2.71200503949
+Root Mean Squared Error:1.64681663809
+R^2 :-0.0138126250357
+Model2: regParam = 0.1, iterations = 100, regType = l1, convergenceTol = 0.001
+Explained Variance:0.214318908889
+Mean Absolute Error:1.53008943325
+Mean Squared Error:2.89190872422
+Root Mean Squared Error:1.70056129681
+R^2 :-0.0810649436015
+Model3: regParam = 0.1, iterations = 100, regType = l2, convergenceTol = 0.001
+Explained Variance:0.0597535559554
+Mean Absolute Error:1.49039276808
+Mean Squared Error:2.72635479763
+Root Mean Squared Error:1.6511677073
+R^2 :-0.019176909305
+Model4: regParam = 0.01, iterations = 200, regType = l1, convergenceTol = 0.001
+Explained Variance:0.0661707373093
+Mean Absolute Error:1.49177433453
+Mean Squared Error:2.73697372748
+Root Mean Squared Error:1.65438016414
+R^2 :-0.0231465203468
+Model5: regParam = 0.01, iterations = 200, regType = l2, convergenceTol = 0.001
+Explained Variance:0.048887165536
+Mean Absolute Error:1.48490827638
+Mean Squared Error:2.71167953088
+Root Mean Squared Error:1.64671780548
+R^2 :-0.0136909420988
+Model6: regParam = 0.1, iterations = 200, regType = l1, convergenceTol = 0.001
+Explained Variance:0.266452208683
+Mean Absolute Error:1.53884589822
+Mean Squared Error:2.94928666758
+Root Mean Squared Error:1.71734873208
+R^2 :-0.102514197026
+Model7: regParam = 0.1, iterations = 200, regType = l2, convergenceTol = 0.001
+Explained Variance:0.0597535559554
+Mean Absolute Error:1.49039276808
+Mean Squared Error:2.72635479763
+Root Mean Squared Error:1.6511677073
+R^2 :-0.019176909305
+Model8: regParam = 0.01, iterations = 100, regType = l1, convergenceTol = 0.0001
+Explained Variance:0.057595845102
+Mean Absolute Error:1.48967036624
+Mean Squared Error:2.72676265939
+Root Mean Squared Error:1.65129120975
+R^2 :-0.0193293778268
+Model9: regParam = 0.01, iterations = 100, regType = l2, convergenceTol = 0.0001
+Explained Variance:0.0488995056988
+Mean Absolute Error:1.48501976169
+Mean Squared Error:2.71200503949
+Root Mean Squared Error:1.64681663809
+R^2 :-0.0138126250357
+Model10: regParam = 0.1, iterations = 100, regType = l1, convergenceTol = 0.0001
+Explained Variance:0.214318908889
+Mean Absolute Error:1.53008943325
+Mean Squared Error:2.89190872422
+Root Mean Squared Error:1.70056129681
+R^2 :-0.0810649436015
+Model11: regParam = 0.1, iterations = 100, regType = l2, convergenceTol = 0.0001
+Explained Variance:0.0591287400117
+Mean Absolute Error:1.49012817892
+Mean Squared Error:2.72544464573
+Root Mean Squared Error:1.65089207574
+R^2 :-0.0188366726615
+Model12: regParam = 0.01, iterations = 200, regType = l1, convergenceTol = 0.0001
+Explained Variance:0.0661707373093
+Mean Absolute Error:1.49177433453
+Mean Squared Error:2.73697372748
+Root Mean Squared Error:1.65438016414
+R^2 :-0.0231465203468
+Model13: regParam = 0.01, iterations = 200, regType = l2, convergenceTol = 0.0001
+Explained Variance:0.0492636197774
+Mean Absolute Error:1.48441551834
+Mean Squared Error:2.71030751593
+Root Mean Squared Error:1.64630116198
+R^2 :-0.0131780499562
+Model14: regParam = 0.1, iterations = 200, regType = l1, convergenceTol = 0.0001
+Explained Variance:0.266452208683
+Mean Absolute Error:1.53884589822
+Mean Squared Error:2.94928666758
+Root Mean Squared Error:1.71734873208
+R^2 :-0.102514197026
+Model15: regParam = 0.1, iterations = 200, regType = l2, convergenceTol = 0.0001
+Explained Variance:0.0588705462447
+Mean Absolute Error:1.49000938983
+Mean Squared Error:2.72501207353
+Root Mean Squared Error:1.65076105889
+R^2 :-0.0186749667851
