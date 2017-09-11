@@ -1,0 +1,105 @@
+Model0: maxDepth = 5, maxBins = 4
+Explained Variance:0.0197507349066
+Mean Absolute Error:1.47504173023
+Mean Squared Error:2.66996032054
+Root Mean Squared Error:1.63400132207
+R^2 :0.00688864396596
+Time taken to execute this model is: 6.54 seconds.
+Model1: maxDepth = 10, maxBins = 4
+Explained Variance:0.108385979367
+Mean Absolute Error:1.451046997
+Mean Squared Error:2.60546920901
+Root Mean Squared Error:1.61414658845
+R^2 :0.0308765866813
+Time taken to execute this model is: 6.81 seconds.
+Model2: maxDepth = 15, maxBins = 4
+Explained Variance:0.799703130017
+Mean Absolute Error:1.2610223075
+Mean Squared Error:2.3293902913
+Root Mean Squared Error:1.52623402246
+R^2 :0.133566168332
+Time taken to execute this model is: 19.3 seconds.
+Model3: maxDepth = 5, maxBins = 8
+Explained Variance:0.0282363954531
+Mean Absolute Error:1.47074543285
+Mean Squared Error:2.66199849249
+Root Mean Squared Error:1.63156320518
+R^2 :0.00985010440323
+Time taken to execute this model is: 4.16 seconds.
+Model4: maxDepth = 10, maxBins = 8
+Explained Variance:0.146056827258
+Mean Absolute Error:1.43200438515
+Mean Squared Error:2.57020104461
+Root Mean Squared Error:1.60318465705
+R^2 :0.0439948395273
+Time taken to execute this model is: 6.81 seconds.
+Model5: maxDepth = 15, maxBins = 8
+Explained Variance:0.710486477882
+Mean Absolute Error:1.28250439813
+Mean Squared Error:2.35421768542
+Root Mean Squared Error:1.53434601229
+R^2 :0.124331436695
+Time taken to execute this model is: 23.19 seconds.
+Model6: maxDepth = 5, maxBins = 16
+Explained Variance:0.0268865877772
+Mean Absolute Error:1.47083054941
+Mean Squared Error:2.66243013966
+Root Mean Squared Error:1.63169548006
+R^2 :0.00968955006701
+Time taken to execute this model is: 4.35 seconds.
+Model7: maxDepth = 10, maxBins = 16
+Explained Variance:0.117743685853
+Mean Absolute Error:1.44263980178
+Mean Squared Error:2.59598025829
+Root Mean Squared Error:1.61120459852
+R^2 :0.0344060716146
+Time taken to execute this model is: 7.29 seconds.
+Model8: maxDepth = 15, maxBins = 16
+Explained Variance:0.346475512937
+Mean Absolute Error:1.41718618892
+Mean Squared Error:2.61998188802
+Root Mean Squared Error:1.61863581081
+R^2 :0.0254784891071
+Time taken to execute this model is: 25.01 seconds.
+Model9: maxDepth = 5, maxBins = 32
+Explained Variance:0.0267022448587
+Mean Absolute Error:1.47096925226
+Mean Squared Error:2.66140439941
+Root Mean Squared Error:1.63138113248
+R^2 :0.010071081688
+Time taken to execute this model is: 5.12 seconds.
+Model10: maxDepth = 10, maxBins = 32
+Explained Variance:0.116531352561
+Mean Absolute Error:1.44458711851
+Mean Squared Error:2.59843808564
+Root Mean Squared Error:1.61196714782
+R^2 :0.0334918646756
+Time taken to execute this model is: 9.68 seconds.
+Model11: maxDepth = 15, maxBins = 32
+Explained Variance:0.336378226995
+Mean Absolute Error:1.42336198268
+Mean Squared Error:2.63436668812
+Root Mean Squared Error:1.62307322328
+R^2 :0.0201279570332
+Time taken to execute this model is: 38.32 seconds.
+Model12: maxDepth = 5, maxBins = 64
+Explained Variance:0.0273217685088
+Mean Absolute Error:1.46867558981
+Mean Squared Error:2.66232811866
+Root Mean Squared Error:1.6316642175
+R^2 :0.00972749752521
+Time taken to execute this model is: 6.03 seconds.
+Model13: maxDepth = 10, maxBins = 64
+Explained Variance:0.106992369883
+Mean Absolute Error:1.44805041955
+Mean Squared Error:2.60650746395
+Root Mean Squared Error:1.61446816752
+R^2 :0.0304904001304
+Time taken to execute this model is: 11.39 seconds.
+Model14: maxDepth = 15, maxBins = 64
+Explained Variance:0.312717887743
+Mean Absolute Error:1.42316503574
+Mean Squared Error:2.62178399841
+Root Mean Squared Error:1.6191923908
+R^2 :0.0248081809083
+Time taken to execute this model is: 57.06 seconds.

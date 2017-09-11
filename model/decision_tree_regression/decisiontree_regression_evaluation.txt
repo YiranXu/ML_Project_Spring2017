@@ -1,0 +1,72 @@
+Model0: maxDepth = 5, maxBins = 16, minInstancesPerNode = 1
+Explained Variance:0.0457558481768
+Mean Absolute Error:1.46867689537
+Mean Squared Error:2.66245097978
+Root Mean Squared Error:1.63170186608
+R^2 :0.0079443168809
+Model1: maxDepth = 5, maxBins = 16, minInstancesPerNode = 5
+Explained Variance:0.0446298758337
+Mean Absolute Error:1.46394930746
+Mean Squared Error:2.65238463792
+Root Mean Squared Error:1.62861433063
+R^2 :0.0116951358527
+Model2: maxDepth = 7, maxBins = 16, minInstancesPerNode = 1
+Explained Variance:0.105166986297
+Mean Absolute Error:1.45357445479
+Mean Squared Error:2.64487940641
+Root Mean Squared Error:1.62630852129
+R^2 :0.0144916596694
+Model3: maxDepth = 7, maxBins = 16, minInstancesPerNode = 5
+Explained Variance:0.107393171371
+Mean Absolute Error:1.45526481034
+Mean Squared Error:2.64684977424
+Root Mean Squared Error:1.62691418773
+R^2 :0.013757481042
+Model4: maxDepth = 10, maxBins = 16, minInstancesPerNode = 1
+Explained Variance:0.377466840325
+Mean Absolute Error:1.4379509601
+Mean Squared Error:2.72279057107
+Root Mean Squared Error:1.65008804949
+R^2 :-0.0145388142312
+Model5: maxDepth = 10, maxBins = 16, minInstancesPerNode = 5
+Explained Variance:0.400804253229
+Mean Absolute Error:1.43771867686
+Mean Squared Error:2.71869731021
+Root Mean Squared Error:1.6488472671
+R^2 :-0.0130136245752
+Model6: maxDepth = 5, maxBins = 32, minInstancesPerNode = 1
+Explained Variance:0.0445611619752
+Mean Absolute Error:1.46675235027
+Mean Squared Error:2.66124658018
+Root Mean Squared Error:1.63133276194
+R^2 :0.00839308813491
+Model7: maxDepth = 5, maxBins = 32, minInstancesPerNode = 5
+Explained Variance:0.0477506556322
+Mean Absolute Error:1.4658768074
+Mean Squared Error:2.65703049272
+Root Mean Squared Error:1.63004002795
+R^2 :0.00996404420337
+Model8: maxDepth = 7, maxBins = 32, minInstancesPerNode = 1
+Explained Variance:0.110218572196
+Mean Absolute Error:1.45432252408
+Mean Squared Error:2.65383682451
+Root Mean Squared Error:1.62906010463
+R^2 :0.0111540367028
+Model9: maxDepth = 7, maxBins = 32, minInstancesPerNode = 5
+Explained Variance:0.106542703991
+Mean Absolute Error:1.45690393263
+Mean Squared Error:2.64721189304
+Root Mean Squared Error:1.627025474
+R^2 :0.0136225519796
+Model10: maxDepth = 10, maxBins = 32, minInstancesPerNode = 1
+Explained Variance:0.345075331244
+Mean Absolute Error:1.43787857985
+Mean Squared Error:2.70319215509
+Root Mean Squared Error:1.64413872745
+R^2 :-0.00723624975115
+Model11: maxDepth = 10, maxBins = 32, minInstancesPerNode = 5
+Explained Variance:0.341798616418
+Mean Absolute Error:1.43993105933
+Mean Squared Error:2.70925576557
+Root Mean Squared Error:1.64598170268
+R^2 :-0.00949561125068
